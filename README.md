@@ -1,6 +1,6 @@
 # To-Do React App
 
-A to-do app using the React-Bootstrap module to style the components.
+A to-do app using class based components styled with React Bootstrap.
 
 ## Functionality
 
